@@ -8,7 +8,7 @@ It can be helpful to drag-and-drop screenshots of your work when you hit an erro
 
 Once you hit the 'commit' button, Github will embed the image. **nb** nothing saves unless you hit the commit button.
 
-## Log for Part One
+## Log for Part Two
 
 Date:
 
