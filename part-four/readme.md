@@ -4,4 +4,4 @@ For the 4th part of the class, 'Communicating', make a new repo altogether and c
 
 # optional exit ticket
 
-You can lodge anything you create for the optional exercise ticket into this folder.
+You can lodge anything you create for the optional exit ticket into this folder.
